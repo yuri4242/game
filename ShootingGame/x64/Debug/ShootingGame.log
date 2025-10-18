@@ -1,0 +1,7 @@
+﻿  ShootingGame.cpp
+C:\DxLib_VC3_24f\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxFunctionWin.h(278,1): warning C4010: 単一行コメント (//) に、行連結文字があります。
+  (ソース ファイル 'ShootingGame.cpp' をコンパイルしています)
+  
+C:\Users\yu-ri\Desktop\00_C言語\書籍_ゲーム開発で学ぶC言語\ShootingGame\ShootingGame.cpp(260,20): warning C4244: '*=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\yu-ri\Desktop\00_C言語\書籍_ゲーム開発で学ぶC言語\ShootingGame\ShootingGame.cpp(409,47): warning C4553: '==': 式の結果が使用されていません。'=' を意図していますか?
+  ShootingGame.vcxproj -> C:\Users\yu-ri\Desktop\00_C言語\書籍_ゲーム開発で学ぶC言語\StudyDXL\x64\Debug\ShootingGame.exe
